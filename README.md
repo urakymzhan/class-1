@@ -1,2 +1,2 @@
-# class-1
+# Basics
 Class 1, Marh 17, 2021
